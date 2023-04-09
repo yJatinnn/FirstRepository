@@ -1,0 +1,16 @@
+{
+"id":1212,
+"name":"John",
+"isActive":true,
+"tags":
+[
+	{
+		"xpath":"something",
+		"css":"something1"
+	},
+	{
+	"xpath":"something2",
+		"css":"something3"
+	}
+]
+}

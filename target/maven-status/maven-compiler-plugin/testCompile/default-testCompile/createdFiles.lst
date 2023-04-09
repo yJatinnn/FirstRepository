@@ -1,0 +1,6 @@
+facebook_TC\fb_try.class
+facebook_TC\Before_after_suite.class
+logic_utility\Logic.class
+locators\Locators_try2.class
+test_cases\NewTest_1.class
+locators\Login_locators.class
